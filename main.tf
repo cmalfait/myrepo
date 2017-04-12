@@ -40,7 +40,7 @@ variable "zones" {
 }
 
 variable "count" {
-  default = "3"
+  default = "2"
 }
 
 provider "aws" {
